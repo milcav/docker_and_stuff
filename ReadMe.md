@@ -1,1 +1,1 @@
-Tring out *Docker*, *Airflow*, and *Spark*
+Trying out *Docker*, *Airflow*, and *Spark*
